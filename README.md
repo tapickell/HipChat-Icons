@@ -10,7 +10,7 @@ This is a repo for some extra HipChat Icons.
 * ![](icons/sc.png) (gogogo) 
 * ![](icons/bender.jpg) (bender) 
 * ![](icons/robot.png) (bot) 
-* ![](icons/ice_cube.png) (ice_cube)
+* ![](icons/ice_cube.jpg) (ice_cube)
 
 
 ##### Adding Icons
